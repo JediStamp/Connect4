@@ -10,8 +10,6 @@ import java.util.Random;
  * Section: 800
  * Semester: 20F
  * Professor: Jangam Piyush
- * Student ID: 040919025
- * Student Email: stam0134@algonquinlive.com
  * Practical Assessment 2
  */
 public class NibbleNabble {
